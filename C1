@@ -1,0 +1,13 @@
+sarakst = [7, 7, 5, 10, 9, 6, 5]
+
+skaitu = len(sarakst)
+summu = sum(sarakst)
+vidējo = summu / skaitu
+augstāko = max(sarakst)
+zemāko = min(sarakst)
+
+print("skaitu: ", skaitu)
+print("summu: ", summu)
+print("vidējo: ", vidējo)
+print("augstāko: ", augstāko)
+print("zemāko: ", zemāko)
