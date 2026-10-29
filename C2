@@ -1,0 +1,10 @@
+tvertnē = 50
+brauciens = 7
+braucienu = 0
+
+while tvertnē >= 7:
+  tvertnē = tvertnē - brauciens
+  braucienu = braucienu + 1
+
+print("braucienu skaitļu: ", braucienu)
+print("tvertnē: ", tvertnē,"litrs")
